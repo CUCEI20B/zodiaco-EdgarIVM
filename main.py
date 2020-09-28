@@ -7,7 +7,7 @@ if (dia>=24 and mes==9) or (dia<=23 and mes==10):
 if (dia>=21 and mes==4) or (dia<=21 and mes==5):
     print ('tauro')
 if (dia>=24 and mes==10) or (dia<=22 and mes==11):
-    print ('Escorpio')
+    print ('escorpio')
 if (dia>=22 and mes==5) or (dia<=21 and mes==6):
     print ('geminis')
 if (dia>=23 and mes==11) or (dia<=21 and mes==12):
